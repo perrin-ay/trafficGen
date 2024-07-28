@@ -1,5 +1,7 @@
 # trafficGen
-Written in sockets and epoll to provide granular control generated sessions. Multiprocessing supported for heavy traffic loads. 
+Written in sockets and epoll to provide granular control over generated sessions. Multiprocessing supported for heavy traffic loads. 
+Author: Arnab Chatterjee
+email: arnabchat21@gmail.com
 ---
 
 **Features**
@@ -8,5 +10,6 @@ Written in sockets and epoll to provide granular control generated sessions. Mul
 - full tls support
 - easily integrates scapy layers
 - optimized send() and recv() functions for flexibility and control.
-- **Extensively used in radware RnD labs to emulate complex traffic scenarios to POC and testing and recreate field OS panics** 
+- logging and results of test
+- **Extensively used in Radware RnD labs to emulate complex traffic scenarios** 
   
