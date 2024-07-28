@@ -1,7 +1,11 @@
 # trafficGen
+
 Written in sockets and epoll to provide granular control over generated sessions. Multiprocessing supported for heavy traffic loads. 
+
 Author: Arnab Chatterjee
+
 email: arnabchat21@gmail.com
+
 ---
 
 **Features**
