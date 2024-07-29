@@ -15,5 +15,5 @@ email: arnabchat21@gmail.com
 - easily integrates scapy layers
 - optimized send() and recv() functions for flexibility and control.
 - logging and results of test
-- **Extensively used in Radware RnD labs to emulate complex traffic scenarios** 
+- **Extensively used in Radware RnD labs to recreate complex traffic scenarios for field bugs** 
   
