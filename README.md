@@ -9,13 +9,14 @@ email: arnabchat21@gmail.com
 ---
 
 **Features**
-- asynchronous traffic generation using epoll
-- multiprocessing for scaling to large traffic rates
-- full tls support
-- easily integrates scapy layers
-- optimized send() and recv() functions for flexibility and control.
-- logging and results of test
-- **Extensively used in Radware RnD labs to recreate complex traffic scenarios for field bugs**
+- The goal here is to provide a library to develop custom traffic patterns from layer 4 to layer 7 and be able to emulate any client traffic pattern found in packet captures.
+- Asynchronous traffic generation using epoll and multiprocessing for scaling to high traffic loads
+- Full TLS support
+- Easily integrates scapy layers
+- Optimized send() and recv() functions
+- Logging and results of test
+- Generate attacks to test application firewalls and WAFs
+- **Extensively used in Radware RnD labs to recreate complex traffic scenarios and traffic related bugs**
 
 ---
 
